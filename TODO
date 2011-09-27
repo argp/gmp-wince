@@ -1,0 +1,4 @@
+* Compile it as a dynamic link library (DLL).
+* Test it on other Windows CE platforms.
+* Port the latest version of GMP.
+
